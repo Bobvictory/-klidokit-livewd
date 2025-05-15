@@ -30,7 +30,7 @@ ffmpeg -i input_video.xxx -c:v libx264 -crf 23 -preset medium -c:a aac -b:a 128k
 
 ### 使用方法
 直接在网页选择视频中选择多个视频即可
-
+在项目中运行 -‘npm run dev’ 运行文件
 
 ## 三、帧图像存储与视频合成
 
